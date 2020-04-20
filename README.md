@@ -7,7 +7,7 @@
 
 PC
 
-![微吧搜索](https://s1.ax1x.com/2020/04/20/JQ3Y0e.md.jpg)
+![微吧搜索](https://s1.ax1x.com/2020/04/20/JQ3Y0e.jpg)
 ![微吧搜索](https://s1.ax1x.com/2020/04/20/JQ3JmD.jpg)
 
 
