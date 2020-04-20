@@ -2,18 +2,14 @@
 
 微吧导航 - 简约舒爽的搜索体验
 
-
-###  图片
-
 PC
 
-![微吧搜索](https://s1.ax1x.com/2020/04/20/JQ3Y0e.jpg)
-![微吧搜索](https://s1.ax1x.com/2020/04/20/JQ3JmD.jpg)
+![JQ3Y0e.jpg](https://s1.ax1x.com/2020/04/20/JQ3Y0e.jpg)
+![JQ3JmD.jpg](https://s1.ax1x.com/2020/04/20/JQ3JmD.jpg)
 
 
 Wap
-![微吧搜索](https://s1.ax1x.com/2020/04/20/JQ82DO.jpg
-)
+![JQ82DO.jpg](https://s1.ax1x.com/2020/04/20/JQ82DO.jpg)
 
 #2020.1.14更新，添加影视搜索功能
 
