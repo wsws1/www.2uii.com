@@ -172,6 +172,6 @@ if ($set['autokeywords'] == 1) {
 </html>
 <!--
 网址：http://www.2uii.com
-github：https://github.com/xiandus/search
-                XianDu，2020.1.6
+github：https://github.com/xingqufx/www.2uii.com
+                信站，2020.4.20
 -->
