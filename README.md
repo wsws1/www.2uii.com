@@ -15,7 +15,7 @@ Wap
 
 ## 演示    
  
-[https://xiandu.me/](https://xiandu.me/)  
+[http://so.2uii.com/](http://so.2uii.com/)  
 
 搜索栏取自 [SEOGO的钛导航](https://www.seogo.me/)
 
